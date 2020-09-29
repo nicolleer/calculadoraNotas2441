@@ -1,0 +1,6 @@
+<resources>
+    <string name="textotitulo">Registrar Notas Para Calcular</string>
+    <string name="texto1">Nota</string>
+    <string name="texto2">Porcentaje %</string>
+    <string name="texto3">Notas Registradas</string>
+</resources>
